@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello there! 👋
+
+My name is Lina and I'm an amateur developer, who's into creating mods and other kinds of story driven content
+
+### - 🔭 I’m currently working on developing personal Hackent Extension
+### - 🌱 I’m currently learning Arma 3 scripting and Hacknet: Extensions XML
+### - 🌐 You can reach me on [Twitter](https://twitter.com/humblesilverfox), [Vk](https://vk.com/humble_silverfox) and [Tumblr](www.tumblr.com/lina-silverfox)
 
 <!--
 **your-humble-silverfox/your-humble-silverfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
