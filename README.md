@@ -1,4 +1,4 @@
-![Hacknet-The-Uprising](https://cdn.discordapp.com/attachments/1083163995088879698/1118146463822786600/SSD_Profile_Cover.png)
+![Hacknet-The-Uprising](https://cdn.discordapp.com/attachments/1083163995088879698/1118221850774884432/SSD_Profile_Cover.png)
 # Hello there! 👋
 
 My name is Lina and I'm an amateur developer, who's into creating mods and other things
