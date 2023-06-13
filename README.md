@@ -1,6 +1,8 @@
+![Hacknet-The-Uprising](https://cdn.discordapp.com/attachments/1083163995088879698/1118146463822786600/SSD_Profile_Cover.png)
 # Hello there! 👋
 
-My name is Lina and I'm an amateur developer, who's into creating mods and other kinds of story driven content
+My name is Lina and I'm an amateur developer, who's into creating mods and other things
+Also I'm a founder of Silverfox Story Developments a small group aimed at creating quality story driven content! 
 
 ### - 🔭 I’m currently working on developing personal Hackent Extension
 ### - 🌱 I’m currently learning Arma 3 scripting and Hacknet: Extensions XML
