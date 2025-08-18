@@ -3,7 +3,7 @@
 
 # § About ME 💬 : 
 
-### - I'm a 19 year old Software Engineering Student and Motorsport Enthusiast from Russia
+### - I'm a 19 years old Software Engineering Student and Motorsport Enthusiast from Russia
 
 <img height="853" width="467" alt="Bladie" align="right" src="https://i.pinimg.com/1200x/17/e9/4a/17e94aca6661bb1970e1427a560f029e.jpg">
 
