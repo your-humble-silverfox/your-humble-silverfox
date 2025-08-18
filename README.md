@@ -35,9 +35,9 @@
 - ✨ Sim-Racing
 - ✨ Graphic Design
 - ✨ Story-Writing
-
-# § Languages, Tools & Services :
 </br>
+# § Languages, Tools & Services :
+
 <p align = "center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java"  width="100" hight="50">
