@@ -36,6 +36,7 @@
 - ✨ Graphic Design
 - ✨ Story-Writing
 </br>
+
 # § Languages, Tools & Services :
 
 <p align = "center">
