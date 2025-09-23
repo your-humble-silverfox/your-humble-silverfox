@@ -35,6 +35,29 @@
 - ✨ Sim-Racing
 - ✨ Graphic Design
 - ✨ Story-Writing
+<img height="853" width="467" alt="Anaxa" align="Left" src="https://i.pinimg.com/1200x/58/f2/e9/58f2e9f6ee9b6c3807f9fe0c8469e417.jpg">
+
+### - Favourites :
+- ✨ Music Band: **Нежность на Бумаге**
+- ✨ Song: **Eve - Inochi No Tabekata**
+- ✨ Movies: **Heat (1995)**, **Gentlemen (2019)**, **Who Am I - Kein System Ist Sicher (2014)**, **The Fast and The Furious - Tokyo Drift (2006)**
+- ✨ Anime: **Violet Evergarden (2018)**, **New Game! (2016-2017)**, **Violet Evergarden: Eternity and the Auto Memory Doll (2019)**
+- ✨ Books: **Nikolai Gogol - The Government Inspector**, **George Orwell - 1984**
+- ✨ Games: **Hacknet**, **Hackmud**, **Orwell: Keeping an Eye On You**, **NITE Team 4**, **Pacific Drive**, **Hotline Miami**
+- ✨ TV Series: **Chernobyl (2019)**, **Sherlock (2010-2017)**, **House M.D. (2004-2012)**
+- ✨ Quote: **«*Truth Begins in Lies*» — Gregory House**
+
+### - Education :
+- ✨ Public School №1195 - Basic Secondary Education - Completed
+- ✨ Coddy School - Python Game Development - Completed
+- ✨ Public School №1195 - Engineering Class Course - Completed
+- ✨ Public School №1195 - Python Programming - Completed
+- ✨ Public School №1195 - Complete Secondary Education - Completed
+- ✨ Russian Technological University MIREA, Department of Mathematical Support and Standartisation of Informational Technologies - Software Engineering Bachelor's Program - Ongoing
+
+### - Projects I'm proud of :
+- ✨ [Hacknet: The Nightwave Collapse](https://github.com/your-humble-silverfox/The-Nightwave-Collapse) - Main Developer
+
 </br>
 
 # § Languages, Tools & Services :
