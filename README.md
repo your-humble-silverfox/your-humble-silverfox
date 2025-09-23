@@ -35,6 +35,7 @@
 - ✨ Sim-Racing
 - ✨ Graphic Design
 - ✨ Story-Writing
+<br/>
 <img height="853" width="467" alt="Anaxa" align="Left" src="https://i.pinimg.com/1200x/58/f2/e9/58f2e9f6ee9b6c3807f9fe0c8469e417.jpg">
 
 ### - Favourites :
