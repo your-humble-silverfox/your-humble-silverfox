@@ -55,9 +55,6 @@
 - ✨ Public School №1195 - Complete Secondary Education - **Completed**
 - ✨ Russian Technological University MIREA, Department of Mathematical Support and Standartisation of Informational Technologies - Software Engineering Bachelor's Program - **Ongoing**
 
-### - Projects I'm proud of :
-- ✨ [Hacknet: The Nightwave Collapse](https://github.com/your-humble-silverfox/The-Nightwave-Collapse) - Main Developer
-
 </br>
 
 # § Languages, Tools & Services :
