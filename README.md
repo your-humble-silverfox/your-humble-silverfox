@@ -78,9 +78,10 @@
 
 | **Platform** | **Username** |
 | - | - |
-| ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) | @humblesilverfox |
+| ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) | [@humblesilverfox](https://x.com/humblesilverfox) |
+| ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white) | [@messirenightingale.bsky.social](https://bsky.app/profile/messirenightingale.bsky.social) |
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | @humble_silverfox |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | @moscovian_sidewinder |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | [@moscovian_sidewinder](https://t.me/moscovian_sidewinder) |
 | ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) | messireNightingale@proton.me |
 
 
