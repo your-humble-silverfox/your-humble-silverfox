@@ -58,6 +58,7 @@
 - ✨ Russian Technological University MIREA, Department of Mathematical Support and Standartisation of Informational Technologies - Software Engineering Bachelor's Program - **Ongoing**
 
 </br>
+</br>
 
 # § Languages, Tools & Services :
 
@@ -65,7 +66,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="c#"  width="85" hight="50">
-<img src="https://github.com/jvcByte/ColoredBadges/blob/master/png/dev/languages/C%2B%2B.png" alt="c++"  width="85" hight="50">
+<img src="https://github.com/your-humble-silverfox/ColoredBadges/blob/d6b9824caa7ee796a85f8e44047ff41241149506/png/dev/languages/%D1%81%2B%2B.png" alt="c++"  width="100" hight="65">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="visual studio code" width="200" height="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity" width="100" height="50">
