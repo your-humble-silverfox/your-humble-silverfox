@@ -63,16 +63,16 @@
 # § Languages, Tools & Services :
 
 <p align = "center">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="c#"  width="85" hight="50">
-<img src="https://github.com/your-humble-silverfox/ColoredBadges/blob/d6b9824caa7ee796a85f8e44047ff41241149506/png/dev/languages/%D1%81%2B%2B.png" alt="c++"  width="100" hight="65">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/python.png" alt="python">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="c#">
+<img src="https://github.com/your-humble-silverfox/ColoredBadges/blob/d6b9824caa7ee796a85f8e44047ff41241149506/png/dev/languages/%D1%81%2B%2B.png" alt="c++">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="visual studio code" width="200" height="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity" width="100" height="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/godot.png" alt="godot" width="110" height="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="visual studio code">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png" alt="unity">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/godot.png" alt="godot">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/codewars.png" alt="codewars" width="130" height="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/codewars.png" alt="codewars">
 </p>
 
 # § Contact Me :
